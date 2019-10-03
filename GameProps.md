@@ -29,4 +29,6 @@ Different environmental upgrades for different effects the weapon has on the tar
 (Possible incindiary or explosive bullets and weapons in a more advanced soul fusion system)
 
 -Enemy Ideas
-Beetle Trunks, tall rusted bodies of a beetle car with tree trunks out of their legs, Weakness is their headlights, and the ones on each leg.
+Beetles, tall rusted bodies of a beetle car with dark stems out of their legs, Weakness is their headlights, and the ones on each leg.
+"In game desc, as defined by screenplay "Oh god, that's horrendous"
+-Weapon is a minigun that protrudes out of trunk when it's lights glow red and want to attack.
