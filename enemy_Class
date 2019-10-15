@@ -1,0 +1,41 @@
+//base class file for enemies in WATF
+
+class enemy{
+public int baseDamage = 0;
+public int baseHealth = 0:
+public int baseDef = 0;
+public String difficulty = "";
+
+    public static void main(String args[]) {
+    }
+      public int getDamage(int baseDamage, damage) {
+            int damage = x * baseDamage; 
+            int x = 0;
+            if (String difficulty = "normal")
+                  int x = 1;
+                  else if (String difficulty = "hard")
+                        int x = 1.5;
+                  else if (String difficulty = "easy")
+                        int x = 0.75;
+      }
+      public int getHealth(int baseHealth, health) {
+            int health = x * baseHealth; 
+            int x = 0;
+            if (String difficulty = "normal")
+                  int x = 1;
+                  else if (String difficulty = "hard")
+                        int x = 1.5;
+                  else if (String difficulty = "easy")
+                        int x = 0.75;
+      }
+      public int getDefence(int baseDef, defence) {
+            int defence = x * baseDefence; 
+            int x = 0;
+            if (String difficulty = "normal")
+                  int x = 1;
+                  else if (String difficulty = "hard")
+                        int x = 1.5;
+                  else if (String difficulty = "easy")
+                        int x = 0.75;
+      }
+}
